@@ -362,6 +362,7 @@ input {
 .main-home-homeHeader,
 .x-441-entityHeader-overlay,
 .main-actionBarBackground-background,
+.playlist-playlist-actionBarBackground-background,
 .main-entityHeader-overlay,
 .main-entityHeader-backgroundColor {
   background-color: unset !important;
