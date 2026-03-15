@@ -188,7 +188,7 @@ PLAYBACK BAR
   transition: left 1s linear;
 }
 
-.progress-bar--isDragging .x-progressBar-fillColor, .progress-bar--isDragging .progress-bar__slider {
+.progress-bar--isDragging .x-progressBar-fillColor, .progress-bar--isDragging .progress-bar__slider, .vhHKzGp9f5uP3jIZrmGE .x-progressBar-fillColor, .vhHKzGp9f5uP3jIZrmGE .progress-bar__slider {
   transition: none;
 }
 
